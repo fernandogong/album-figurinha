@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+  }
+  body {
+    background-image: linear-gradient(to right, rgb(93, 20, 47), rgb(149, 15, 42));
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+
+.principal{
+    background-color:#CCCCCC ;
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+
+}
+
+
+p {
+text-align: center;
+
+}
+
+#missao {
+    font-size: 18px;
+
+}
+
+
+.itens{
+    font-style: italic;
+}
+
+.noticias{
+    background-color: white;
+    padding: 20px;
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagemselecao{
+    width: 700px;
+}
