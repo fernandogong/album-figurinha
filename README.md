@@ -1,7 +1,7 @@
 # album-figurinha
 
 <div align="center">
-    <img src="22cup.png" alt="imagem do álbum de 2022">
+    <img src="22cup.jpg" alt="imagem do álbum de 2022">
 </div>
 
 ## Autor
